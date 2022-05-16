@@ -1,5 +1,10 @@
 {
-    "REPLACE_ME": {
+    "sample-env-1": {
+        "role": "arn:aws:iam::279245132597:role/ExampleGithubRole",
+        "region": "us-east-1",
+        "state_bucket":"aws-proton-terraform-bucket-279245132597"
+    },
+    "sample-env-2": {
         "role": "arn:aws:iam::279245132597:role/ExampleGithubRole",
         "region": "us-east-1",
         "state_bucket":"aws-proton-terraform-bucket-279245132597"
