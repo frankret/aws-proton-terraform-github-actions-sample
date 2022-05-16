@@ -126,7 +126,7 @@ jobs:
           IFS='/'
           read -a split_resources <<< "$resource_portion"
           component_name=${split_resources[1]}
-          working_directory=$environment_name/$component_name/  
+          working_directory=$environment_name/components/$component_name/
         fi
 
         if [[ $(jq -r --arg env $environment_name 'has($env)' env_config.json) = "true" ]]; then
