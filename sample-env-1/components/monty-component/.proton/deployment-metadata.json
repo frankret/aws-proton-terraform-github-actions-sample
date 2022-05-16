@@ -1,0 +1,9 @@
+{
+  "deploymentId" : "1c8fc78e-efac-4f63-8bb8-1e0668a5050b",
+  "isResourceDeleted" : false,
+  "componentMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:279245132597:component/monty-component",
+    "environmentArn" : "arn:aws:proton:us-east-1:279245132597:environment/sample-env-1",
+    "componentType" : "default"
+  }
+}
