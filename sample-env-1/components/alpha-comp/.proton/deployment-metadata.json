@@ -1,0 +1,9 @@
+{
+  "deploymentId" : "d4f51ed6-9ea7-4d96-863d-b734e982b766",
+  "isResourceDeleted" : false,
+  "componentMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:279245132597:component/alpha-comp",
+    "environmentArn" : "arn:aws:proton:us-east-1:279245132597:environment/sample-env-1",
+    "componentType" : "default"
+  }
+}
